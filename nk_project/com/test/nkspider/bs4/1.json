@@ -1,0 +1,1709 @@
+{
+  "movieList": {
+    "status": true,
+    "data": {
+      "list": [
+        {
+          "avgSeatView": "3.1%",
+          "avgShowView": "5",
+          "boxRate": "50.7%",
+          "boxSplitUnit": {
+            "num": "&#xf1fd;&#xf1fd;&#xef96;&#xf1fd;.&#xef96;&#xeeda;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1337700,
+            "movieName": "中国医生",
+            "releaseInfo": "上映12天"
+          },
+          "showCount": 124333,
+          "showCountRate": "35.3%",
+          "splitBoxRate": "50.6%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf1fd;&#xe8b5;&#xf8bc;&#xf48c;.&#xf1fd;&#xf8bc;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "9.54亿",
+          "sumSplitBoxDesc": "8.73亿"
+        },
+        {
+          "avgSeatView": "2.2%",
+          "avgShowView": "3",
+          "boxRate": "17.5%",
+          "boxSplitUnit": {
+            "num": "&#xeeda;&#xeeda;&#xeeda;.&#xe002;&#xf31c;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1371295,
+            "movieName": "燃野少年的天空",
+            "releaseInfo": "上映4天"
+          },
+          "showCount": 79325,
+          "showCountRate": "22.5%",
+          "splitBoxRate": "17.4%",
+          "splitBoxSplitUnit": {
+            "num": "&#xeeda;&#xe8b5;&#xf48c;.&#xf8bc;&#xeeda;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1.00亿",
+          "sumSplitBoxDesc": "9181.6万"
+        },
+        {
+          "avgSeatView": "3.7%",
+          "avgShowView": "4",
+          "boxRate": "6.2%",
+          "boxSplitUnit": {
+            "num": "&#xf1fd;&#xeeda;&#xec96;.&#xf48c;&#xef96;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1336183,
+            "movieName": "1921",
+            "releaseInfo": "上映20天"
+          },
+          "showCount": 21087,
+          "showCountRate": "5.9%",
+          "splitBoxRate": "6.2%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf1fd;&#xf8bc;&#xf8bc;.&#xeeda;&#xe8b5;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "4.66亿",
+          "sumSplitBoxDesc": "4.29亿"
+        },
+        {
+          "avgSeatView": "1.7%",
+          "avgShowView": "2",
+          "boxRate": "4.2%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xec96;&#xeeda;.&#xeeda;&#xf48c;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1432307,
+            "movieName": "济公之降龙降世",
+            "releaseInfo": "上映5天"
+          },
+          "showCount": 31061,
+          "showCountRate": "8.8%",
+          "splitBoxRate": "4.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xf48c;&#xf535;.&#xeeda;&#xf1fd;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "3238.0万",
+          "sumSplitBoxDesc": "2929.5万"
+        },
+        {
+          "avgSeatView": "2.4%",
+          "avgShowView": "3",
+          "boxRate": "3.7%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xf48c;&#xeeda;.&#xe8b5;&#xf31c;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1303100,
+            "movieName": "新大头儿子和小头爸爸4：完美爸爸",
+            "releaseInfo": "上映12天"
+          },
+          "showCount": 19360,
+          "showCountRate": "5.5%",
+          "splitBoxRate": "3.7%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xf8bc;&#xf1fd;.&#xeeda;&#xeeda;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "8067.0万",
+          "sumSplitBoxDesc": "7436.4万"
+        },
+        {
+          "avgSeatView": "1.3%",
+          "avgShowView": "2",
+          "boxRate": "2.9%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xf1fd;&#xec96;.&#xec96;&#xf48c;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1284955,
+            "movieName": "二哥来了怎么办",
+            "releaseInfo": "上映5天"
+          },
+          "showCount": 29567,
+          "showCountRate": "8.4%",
+          "splitBoxRate": "2.8%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xf31c;&#xf48c;.&#xf31c;&#xf1fd;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "2476.7万",
+          "sumSplitBoxDesc": "2232.0万"
+        },
+        {
+          "avgSeatView": "2.6%",
+          "avgShowView": "3",
+          "boxRate": "2.7%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xf1fd;&#xe8b5;.&#xeeda;&#xf1fd;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1250950,
+            "movieName": "俑之城",
+            "releaseInfo": "上映12天"
+          },
+          "showCount": 13320,
+          "showCountRate": "3.7%",
+          "splitBoxRate": "2.6%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xe8b5;&#xec96;.&#xf8bc;&#xec96;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "6223.6万",
+          "sumSplitBoxDesc": "5609.0万"
+        },
+        {
+          "avgSeatView": "16.2%",
+          "avgShowView": "19",
+          "boxRate": "2.3%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xe8b5;&#xf1fd;.&#xef96;&#xf48c;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1319075,
+            "movieName": "守岛人",
+            "releaseInfo": "上映33天"
+          },
+          "showCount": 1548,
+          "showCountRate": "0.4%",
+          "splitBoxRate": "2.5%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xe8b5;&#xf31c;.&#xf8bc;&#xf48c;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1.12亿",
+          "sumSplitBoxDesc": "1.09亿"
+        },
+        {
+          "avgSeatView": "41.6%",
+          "avgShowView": "44",
+          "boxRate": "1.6%",
+          "boxSplitUnit": {
+            "num": "&#xeeda;&#xef96;.&#xef96;&#xf535;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1413602,
+            "movieName": "三湾改编",
+            "releaseInfo": "上映2天"
+          },
+          "showCount": 439,
+          "showCountRate": "0.1%",
+          "splitBoxRate": "1.8%",
+          "splitBoxSplitUnit": {
+            "num": "&#xeeda;&#xef96;.&#xef96;&#xe8b5;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "295.5万",
+          "sumSplitBoxDesc": "295.2万"
+        },
+        {
+          "avgSeatView": "3.6%",
+          "avgShowView": "4",
+          "boxRate": "1.4%",
+          "boxSplitUnit": {
+            "num": "&#xf48c;&#xf8bc;.&#xec96;&#xe8b5;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1378057,
+            "movieName": "革命者",
+            "releaseInfo": "上映20天"
+          },
+          "showCount": 5108,
+          "showCountRate": "1.4%",
+          "splitBoxRate": "1.5%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf48c;&#xf1fd;.&#xf1fd;&#xeeda;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1.23亿",
+          "sumSplitBoxDesc": "1.13亿"
+        },
+        {
+          "avgSeatView": "39.9%",
+          "avgShowView": "41",
+          "boxRate": "0.8%",
+          "boxSplitUnit": {
+            "num": "&#xe002;&#xf48c;.&#xe002;&#xe002;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1378194,
+            "movieName": "红船",
+            "releaseInfo": "上映12天"
+          },
+          "showCount": 279,
+          "showCountRate": "<0.1%",
+          "splitBoxRate": "0.8%",
+          "splitBoxSplitUnit": {
+            "num": "&#xe002;&#xef96;.&#xf8bc;&#xf535;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "447.7万",
+          "sumSplitBoxDesc": "417.3万"
+        },
+        {
+          "avgSeatView": "2.2%",
+          "avgShowView": "3",
+          "boxRate": "0.7%",
+          "boxSplitUnit": {
+            "num": "&#xe002;&#xe002;.&#xf8bc;&#xeeda;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1215841,
+            "movieName": "终极代码",
+            "releaseInfo": "上映5天"
+          },
+          "showCount": 3725,
+          "showCountRate": "1.0%",
+          "splitBoxRate": "0.8%",
+          "splitBoxSplitUnit": {
+            "num": "&#xe002;&#xf1fd;.&#xf8bc;&#xf535;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "673.1万",
+          "sumSplitBoxDesc": "653.9万"
+        },
+        {
+          "avgSeatView": "2.9%",
+          "avgShowView": "3",
+          "boxRate": "0.5%",
+          "boxSplitUnit": {
+            "num": "&#xf1fd;&#xf8bc;.&#xf8bc;&#xf48c;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1278598,
+            "movieName": "你好世界",
+            "releaseInfo": "上映40天"
+          },
+          "showCount": 3151,
+          "showCountRate": "0.8%",
+          "splitBoxRate": "0.5%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf1fd;&#xf1fd;.&#xf1fd;&#xeeda;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1.34亿",
+          "sumSplitBoxDesc": "1.18亿"
+        },
+        {
+          "avgSeatView": "1.6%",
+          "avgShowView": "2",
+          "boxRate": "0.3%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xeeda;.&#xef96;&#xe8b5;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1360592,
+            "movieName": "当男人恋爱时",
+            "releaseInfo": "上映40天"
+          },
+          "showCount": 3849,
+          "showCountRate": "1.0%",
+          "splitBoxRate": "0.3%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xf8bc;.&#xf31c;&#xf31c;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "2.62亿",
+          "sumSplitBoxDesc": "2.30亿"
+        },
+        {
+          "avgSeatView": "13.2%",
+          "avgShowView": "13",
+          "boxRate": "0.3%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xf8bc;.&#xeeda;&#xf31c;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1255347,
+            "movieName": "再见汪先森",
+            "releaseInfo": "上映12天"
+          },
+          "showCount": 264,
+          "showCountRate": "<0.1%",
+          "splitBoxRate": "0.3%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xf8bc;.&#xf48c;&#xf535;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1310.5万",
+          "sumSplitBoxDesc": "1293.7万"
+        },
+        {
+          "avgSeatView": "8.5%",
+          "avgShowView": "11",
+          "boxRate": "0.2%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xf31c;.&#xec96;&#xf1fd;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1397893,
+            "movieName": "童年周恩来",
+            "releaseInfo": "上映50天"
+          },
+          "showCount": 495,
+          "showCountRate": "0.1%",
+          "splitBoxRate": "0.2%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xf31c;.&#xf31c;&#xeeda;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "763.3万",
+          "sumSplitBoxDesc": "716.5万"
+        },
+        {
+          "avgSeatView": "3.3%",
+          "avgShowView": "4",
+          "boxRate": "0.2%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xf31c;.&#xf1fd;&#xf535;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1297927,
+            "movieName": "困在时间里的父亲",
+            "releaseInfo": "上映33天"
+          },
+          "showCount": 803,
+          "showCountRate": "0.2%",
+          "splitBoxRate": "0.2%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xe8b5;.&#xf31c;&#xf48c;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "2909.2万",
+          "sumSplitBoxDesc": "2598.0万"
+        },
+        {
+          "avgSeatView": "9.0%",
+          "avgShowView": "9",
+          "boxRate": "0.2%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xe8b5;.&#xec96;&#xf535;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1377099,
+            "movieName": "我没谈完的那场恋爱",
+            "releaseInfo": "上映26天"
+          },
+          "showCount": 385,
+          "showCountRate": "0.1%",
+          "splitBoxRate": "0.2%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xe8b5;.&#xeeda;&#xf535;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "4833.2万",
+          "sumSplitBoxDesc": "4365.9万"
+        },
+        {
+          "avgSeatView": "3.5%",
+          "avgShowView": "4",
+          "boxRate": "0.2%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;&#xe8b5;.&#xf48c;&#xf535;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1430577,
+            "movieName": "大学",
+            "releaseInfo": "上映12天"
+          },
+          "showCount": 990,
+          "showCountRate": "0.2%",
+          "splitBoxRate": "0.2%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;&#xe8b5;.&#xe8b5;&#xf1fd;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "484.8万",
+          "sumSplitBoxDesc": "459.5万"
+        },
+        {
+          "avgSeatView": "2.7%",
+          "avgShowView": "3",
+          "boxRate": "0.2%",
+          "boxSplitUnit": {
+            "num": "&#xf535;.&#xf1fd;&#xeeda;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1302134,
+            "movieName": "哆啦A梦：伴我同行2",
+            "releaseInfo": "上映54天"
+          },
+          "showCount": 1163,
+          "showCountRate": "0.3%",
+          "splitBoxRate": "0.2%",
+          "splitBoxSplitUnit": {
+            "num": "&#xec96;.&#xf1fd;&#xf48c;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "2.76亿",
+          "sumSplitBoxDesc": "2.47亿"
+        },
+        {
+          "avgSeatView": "75.0%",
+          "avgShowView": "123",
+          "boxRate": "0.1%",
+          "boxSplitUnit": {
+            "num": "&#xec96;.&#xf1fd;&#xec96;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1327499,
+            "movieName": "大事",
+            "releaseInfo": ""
+          },
+          "showCount": 18,
+          "showCountRate": "<0.1%",
+          "splitBoxRate": "0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xeeda;.&#xf48c;&#xf1fd;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "957.5万",
+          "sumSplitBoxDesc": "954.8万"
+        },
+        {
+          "avgSeatView": "2.4%",
+          "avgShowView": "3",
+          "boxRate": "0.1%",
+          "boxSplitUnit": {
+            "num": "&#xeeda;.&#xec96;&#xf8bc;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 424008,
+            "movieName": "狼行者",
+            "releaseInfo": "上映18天"
+          },
+          "showCount": 959,
+          "showCountRate": "0.2%",
+          "splitBoxRate": "0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xeeda;.&#xe8b5;&#xf8bc;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1265.9万",
+          "sumSplitBoxDesc": "1139.0万"
+        },
+        {
+          "avgSeatView": "3.5%",
+          "avgShowView": "4",
+          "boxRate": "0.1%",
+          "boxSplitUnit": {
+            "num": "&#xf48c;.&#xec96;&#xe8b5;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1207687,
+            "movieName": "普罗米亚",
+            "releaseInfo": "上映46天"
+          },
+          "showCount": 580,
+          "showCountRate": "0.1%",
+          "splitBoxRate": "0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf8bc;.&#xf535;&#xef96;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1927.3万",
+          "sumSplitBoxDesc": "1693.2万"
+        },
+        {
+          "avgSeatView": "2.6%",
+          "avgShowView": "3",
+          "boxRate": "<0.1%",
+          "boxSplitUnit": {
+            "num": "&#xe002;.&#xe002;&#xf31c;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1226046,
+            "movieName": "人之怒",
+            "releaseInfo": "上映72天"
+          },
+          "showCount": 408,
+          "showCountRate": "0.1%",
+          "splitBoxRate": "<0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf1fd;.&#xeeda;&#xf535;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1.65亿",
+          "sumSplitBoxDesc": "1.45亿"
+        },
+        {
+          "avgSeatView": "49.6%",
+          "avgShowView": "34",
+          "boxRate": "<0.1%",
+          "boxSplitUnit": {
+            "num": "&#xe002;.&#xe8b5;&#xeeda;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1279934,
+            "movieName": "火山地狱",
+            "releaseInfo": "上映40天"
+          },
+          "showCount": 34,
+          "showCountRate": "<0.1%",
+          "splitBoxRate": "<0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf1fd;.&#xec96;&#xf1fd;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "936.3万",
+          "sumSplitBoxDesc": "932.8万"
+        },
+        {
+          "avgSeatView": "3.1%",
+          "avgShowView": "3",
+          "boxRate": "<0.1%",
+          "boxSplitUnit": {
+            "num": "&#xf1fd;.&#xec96;&#xf535;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 718,
+            "movieName": "天堂电影院",
+            "releaseInfo": "上映40天"
+          },
+          "showCount": 236,
+          "showCountRate": "<0.1%",
+          "splitBoxRate": "<0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf1fd;.&#xf48c;&#xf1fd;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1937.4万",
+          "sumSplitBoxDesc": "1716.7万"
+        },
+        {
+          "avgSeatView": "0.5%",
+          "avgShowView": "1",
+          "boxRate": "<0.1%",
+          "boxSplitUnit": {
+            "num": "&#xf1fd;.&#xec96;&#xeeda;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1222268,
+            "movieName": "天下无拐",
+            "releaseInfo": "上映5天"
+          },
+          "showCount": 1946,
+          "showCountRate": "0.5%",
+          "splitBoxRate": "<0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf1fd;.&#xf48c;&#xef96;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "97.8万",
+          "sumSplitBoxDesc": "90.7万"
+        },
+        {
+          "avgSeatView": "24.6%",
+          "avgShowView": "22",
+          "boxRate": "<0.1%",
+          "boxSplitUnit": {
+            "num": "&#xf1fd;.&#xeeda;&#xec96;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1433607,
+            "movieName": "山歌",
+            "releaseInfo": "上映26天"
+          },
+          "showCount": 34,
+          "showCountRate": "<0.1%",
+          "splitBoxRate": "<0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf1fd;.&#xf8bc;&#xf48c;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "86.5万",
+          "sumSplitBoxDesc": "85.7万"
+        },
+        {
+          "avgSeatView": "68.9%",
+          "avgShowView": "120",
+          "boxRate": "<0.1%",
+          "boxSplitUnit": {
+            "num": "&#xf1fd;.&#xeeda;&#xf31c;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1298542,
+            "movieName": "白蛇2：青蛇劫起",
+            "releaseInfo": "点映"
+          },
+          "showCount": 5,
+          "showCountRate": "<0.1%",
+          "splitBoxRate": "<0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf1fd;.&#xef96;&#xe002;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "2.7万",
+          "sumSplitBoxDesc": "2.4万"
+        },
+        {
+          "avgSeatView": "1.4%",
+          "avgShowView": "2",
+          "boxRate": "<0.1%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;.&#xeeda;&#xf1fd;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1298908,
+            "movieName": "完美受害人",
+            "releaseInfo": "上映26天"
+          },
+          "showCount": 504,
+          "showCountRate": "0.1%",
+          "splitBoxRate": "<0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xf31c;.&#xf8bc;&#xf1fd;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1293.2万",
+          "sumSplitBoxDesc": "1151.4万"
+        },
+        {
+          "avgSeatView": "0.8%",
+          "avgShowView": "1",
+          "boxRate": "<0.1%",
+          "boxSplitUnit": {
+            "num": "&#xf31c;.&#xe8b5;&#xf1fd;",
+            "unit": "万"
+          },
+          "movieInfo": {
+            "movieId": 1250676,
+            "movieName": "了不起的老爸",
+            "releaseInfo": "上映33天"
+          },
+          "showCount": 382,
+          "showCountRate": "0.1%",
+          "splitBoxRate": "<0.1%",
+          "splitBoxSplitUnit": {
+            "num": "&#xe8b5;.&#xf535;&#xef96;",
+            "unit": "万"
+          },
+          "sumBoxDesc": "1.48亿",
+          "sumSplitBoxDesc": "1.35亿"
+        }
+      ],
+      "nationBoxInfo": {
+        "nationBoxSplitUnit": {
+          "num": "4423.0",
+          "unit": "万"
+        },
+        "nationSplitBoxSplitUnit": {
+          "num": "4060.6",
+          "unit": "万"
+        },
+        "showCountDesc": "35.2万",
+        "title": "实时大盘",
+        "viewCountDesc": "121.2万"
+      },
+      "updateInfo": {
+        "updateGapSecond": 3,
+        "updateTimestamp": 1626774741619
+      }
+    }
+  },
+  "webList": {
+    "status": true,
+    "data": {
+      "list": [
+        {
+          "barValue": 6497.17,
+          "currHeat": 6497.17,
+          "currHeatDesc": "6497.17",
+          "playCountSplitUnit": {
+            "num": 3256.6,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "千古玦尘",
+            "newSeries": false,
+            "platformDesc": "腾讯视频独播",
+            "platformTxt": -1,
+            "releaseInfo": "上线34天",
+            "seriesId": 1144555
+          }
+        },
+        {
+          "barValue": 5937.275861231864,
+          "currHeat": 6434.81,
+          "currHeatDesc": "6434.81",
+          "seriesInfo": {
+            "name": "北辙南辕",
+            "newSeries": false,
+            "platformDesc": "爱奇艺独播",
+            "platformTxt": 1,
+            "releaseInfo": "上线10天",
+            "seriesId": 1337025
+          }
+        },
+        {
+          "barValue": 5386.819306153364,
+          "currHeat": 6327.46,
+          "currHeatDesc": "6327.46",
+          "playCountSplitUnit": {
+            "num": 1532.8,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "你微笑时很美",
+            "newSeries": false,
+            "platformDesc": "多平台播放",
+            "platformTxt": -1,
+            "releaseInfo": "上线28天",
+            "seriesId": 1252881
+          }
+        },
+        {
+          "barValue": 4834.821445625603,
+          "currHeat": 6154.97,
+          "currHeatDesc": "6154.97",
+          "seriesInfo": {
+            "name": "我的邻居长不大",
+            "newSeries": false,
+            "platformDesc": "优酷独播",
+            "platformTxt": 0,
+            "releaseInfo": "上线9天",
+            "seriesId": 1337765
+          }
+        },
+        {
+          "barValue": 4458.308153994061,
+          "currHeat": 6151.26,
+          "currHeatDesc": "6151.26",
+          "seriesInfo": {
+            "name": "你好，火焰蓝",
+            "newSeries": false,
+            "platformDesc": "优酷独播",
+            "platformTxt": 0,
+            "releaseInfo": "上线13天",
+            "seriesId": 1369159
+          }
+        },
+        {
+          "barValue": 4012.2010833487407,
+          "currHeat": 5999.64,
+          "currHeatDesc": "5999.64",
+          "playCountSplitUnit": {
+            "num": 949.6,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "大决战",
+            "newSeries": false,
+            "platformDesc": "多平台播放",
+            "platformTxt": -1,
+            "releaseInfo": "上线26天",
+            "seriesId": 1374623
+          }
+        },
+        {
+          "barValue": 3693.86704883471,
+          "currHeat": 5986.49,
+          "currHeatDesc": "5986.49",
+          "seriesInfo": {
+            "name": "爱上特种兵",
+            "newSeries": false,
+            "platformDesc": "爱奇艺独播",
+            "platformTxt": 1,
+            "releaseInfo": "上线50天",
+            "seriesId": 1317664
+          }
+        },
+        {
+          "barValue": 3397.329285352521,
+          "currHeat": 5967.29,
+          "currHeatDesc": "5967.29",
+          "playCountSplitUnit": {
+            "num": 662.8,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "我是真的爱你",
+            "newSeries": false,
+            "platformDesc": "多平台播放",
+            "platformTxt": -1,
+            "releaseInfo": "上线2天",
+            "seriesId": 1301553
+          }
+        },
+        {
+          "barValue": 3108.84235818204,
+          "currHeat": 5918.16,
+          "currHeatDesc": "5918.16",
+          "playCountSplitUnit": {
+            "num": 2220.4,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "我在他乡挺好的",
+            "newSeries": false,
+            "platformDesc": "芒果TV独播",
+            "platformTxt": -1,
+            "releaseInfo": "上线2天",
+            "seriesId": 1401290
+          }
+        },
+        {
+          "barValue": 2857.4183439460867,
+          "currHeat": 5895.36,
+          "currHeatDesc": "5895.36",
+          "playCountSplitUnit": {
+            "num": 1100.2,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "陌生的恋人",
+            "newSeries": false,
+            "platformDesc": "多平台播放",
+            "platformTxt": -1,
+            "releaseInfo": "上线9天",
+            "seriesId": 1326549
+          }
+        },
+        {
+          "barValue": 2622.7601571207383,
+          "currHeat": 5864.67,
+          "currHeatDesc": "5864.67",
+          "playCountSplitUnit": {
+            "num": 3349.6,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "对你的爱很美",
+            "newSeries": false,
+            "platformDesc": "芒果TV独播",
+            "platformTxt": -1,
+            "releaseInfo": "上线8天",
+            "seriesId": 1345234
+          }
+        },
+        {
+          "barValue": 2406.147244349644,
+          "currHeat": 5831.17,
+          "currHeatDesc": "5831.17",
+          "seriesInfo": {
+            "name": "叛逆者",
+            "newSeries": false,
+            "platformDesc": "爱奇艺独播",
+            "platformTxt": 1,
+            "releaseInfo": "上线44天",
+            "seriesId": 1318655
+          }
+        },
+        {
+          "barValue": 2216.3024469948195,
+          "currHeat": 5821.18,
+          "currHeatDesc": "5821.18",
+          "playCountSplitUnit": {
+            "num": 546.2,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "不说再见",
+            "newSeries": false,
+            "platformDesc": "多平台播放",
+            "platformTxt": -1,
+            "releaseInfo": "上线29天",
+            "seriesId": 1229587
+          }
+        },
+        {
+          "barValue": 2041.0861072774915,
+          "currHeat": 5810.21,
+          "currHeatDesc": "5810.21",
+          "playCountSplitUnit": {
+            "num": 995.1,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "海上繁花",
+            "newSeries": false,
+            "platformDesc": "多平台播放",
+            "platformTxt": -1,
+            "releaseInfo": "上线28天",
+            "seriesId": 1169730
+          }
+        },
+        {
+          "barValue": 1831.7892554835084,
+          "currHeat": 5651.38,
+          "currHeatDesc": "5651.38",
+          "playCountSplitUnit": {
+            "num": 1103.9,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "云顶天宫",
+            "newSeries": false,
+            "platformDesc": "腾讯视频独播",
+            "platformTxt": -1,
+            "releaseInfo": "上线10天",
+            "seriesId": 383093
+          }
+        },
+        {
+          "barValue": 1663.252523771864,
+          "currHeat": 5561.42,
+          "currHeatDesc": "5561.42",
+          "playCountSplitUnit": {
+            "num": 206.9,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "衡山医院",
+            "newSeries": false,
+            "platformDesc": "多平台播放",
+            "platformTxt": -1,
+            "releaseInfo": "上线13天",
+            "seriesId": 1249064
+          }
+        },
+        {
+          "barValue": 1493.7256855504631,
+          "currHeat": 5413.11,
+          "currHeatDesc": "5413.11",
+          "playCountSplitUnit": {
+            "num": 2101.2,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "法医秦明之无声的证词",
+            "newSeries": false,
+            "platformDesc": "芒果TV独播",
+            "platformTxt": -1,
+            "releaseInfo": "上线3天",
+            "seriesId": 1336883
+          }
+        },
+        {
+          "barValue": 1377.575168333478,
+          "currHeat": 5410.53,
+          "currHeatDesc": "5410.53",
+          "seriesInfo": {
+            "name": "变成你的那一天",
+            "newSeries": false,
+            "platformDesc": "爱奇艺独播",
+            "platformTxt": 1,
+            "releaseInfo": "上线34天",
+            "seriesId": 1369799
+          }
+        },
+        {
+          "barValue": 1243.6888861794807,
+          "currHeat": 5294.01,
+          "currHeatDesc": "5294.01",
+          "playCountSplitUnit": {
+            "num": 1253.2,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "贺先生的恋恋不忘",
+            "newSeries": false,
+            "platformDesc": "芒果TV独播",
+            "platformTxt": -1,
+            "releaseInfo": "上线11天",
+            "seriesId": 1341423
+          }
+        },
+        {
+          "barValue": 1143.8473201497723,
+          "currHeat": 5277.03,
+          "currHeatDesc": "5277.03",
+          "playCountSplitUnit": {
+            "num": 162.9,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "我们的新时代",
+            "newSeries": false,
+            "platformDesc": "多平台播放",
+            "platformTxt": -1,
+            "releaseInfo": "上线35天",
+            "seriesId": 1336243
+          }
+        },
+        {
+          "barValue": 1054.544,
+          "currHeat": 5272.72,
+          "currHeatDesc": "5272.72",
+          "seriesInfo": {
+            "name": "喵，请许愿",
+            "newSeries": false,
+            "platformDesc": "爱奇艺独播",
+            "platformTxt": 1,
+            "releaseInfo": "上线13天",
+            "seriesId": 1337077
+          }
+        },
+        {
+          "barValue": 968.4476493479506,
+          "currHeat": 5248.01,
+          "currHeatDesc": "5248.01",
+          "seriesInfo": {
+            "name": "刑侦日记",
+            "newSeries": false,
+            "platformDesc": "优酷独播",
+            "platformTxt": 0,
+            "releaseInfo": "上线36天",
+            "seriesId": 1330814
+          }
+        },
+        {
+          "barValue": 892.7525017118855,
+          "currHeat": 5243.22,
+          "currHeatDesc": "5243.22",
+          "seriesInfo": {
+            "name": "燃烧吧废柴",
+            "newSeries": false,
+            "platformDesc": "优酷独播",
+            "platformTxt": 0,
+            "releaseInfo": "上线5天",
+            "seriesId": 1336516
+          }
+        },
+        {
+          "barValue": 823.3564312981491,
+          "currHeat": 5240.87,
+          "currHeatDesc": "5240.87",
+          "seriesInfo": {
+            "name": "花好月又圆",
+            "newSeries": false,
+            "platformDesc": "优酷独播",
+            "platformTxt": 0,
+            "releaseInfo": "上线43天",
+            "seriesId": 1324268
+          }
+        },
+        {
+          "barValue": 746.3505560280709,
+          "currHeat": 5148.81,
+          "currHeatDesc": "5148.81",
+          "seriesInfo": {
+            "name": "月光变奏曲",
+            "newSeries": false,
+            "platformDesc": "爱奇艺独播",
+            "platformTxt": 1,
+            "releaseInfo": "上线62天",
+            "seriesId": 1358080
+          }
+        },
+        {
+          "barValue": 681.4704454219533,
+          "currHeat": 5095.18,
+          "currHeatDesc": "5095.18",
+          "seriesInfo": {
+            "name": "二龙湖爱情故事2021",
+            "newSeries": false,
+            "platformDesc": "优酷独播",
+            "platformTxt": 0,
+            "releaseInfo": "上线42天",
+            "seriesId": 1362422
+          }
+        },
+        {
+          "barValue": 624.638188044171,
+          "currHeat": 5061.62,
+          "currHeatDesc": "5061.62",
+          "seriesInfo": {
+            "name": "薄荷之夏",
+            "newSeries": false,
+            "platformDesc": "爱奇艺独播",
+            "platformTxt": 1,
+            "releaseInfo": "上线11天",
+            "seriesId": 1343158
+          }
+        },
+        {
+          "barValue": 575.995534867538,
+          "currHeat": 5058.58,
+          "currHeatDesc": "5058.58",
+          "playCountSplitUnit": {
+            "num": 177.1,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "阿坝一家人",
+            "newSeries": false,
+            "platformDesc": "多平台播放",
+            "platformTxt": -1,
+            "releaseInfo": "上线18天",
+            "seriesId": 1285514
+          }
+        },
+        {
+          "barValue": 525.1311594345409,
+          "currHeat": 4998.34,
+          "currHeatDesc": "4998.34",
+          "playCountSplitUnit": {
+            "num": 574.8,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "我和我们在一起",
+            "newSeries": false,
+            "platformDesc": "多平台播放",
+            "platformTxt": -1,
+            "releaseInfo": "上线23天",
+            "seriesId": 1302437
+          }
+        },
+        {
+          "barValue": 483.3254574319841,
+          "currHeat": 4985.93,
+          "currHeatDesc": "4985.93",
+          "playCountSplitUnit": {
+            "num": 1232,
+            "unit": "万"
+          },
+          "seriesInfo": {
+            "name": "青春须早为",
+            "newSeries": false,
+            "platformDesc": "芒果TV独播",
+            "platformTxt": -1,
+            "releaseInfo": "上线42天",
+            "seriesId": 1226596
+          }
+        }
+      ],
+      "updateInfo": {
+        "updateGapSecond": 3,
+        "updateTimestamp": 1626774741621
+      }
+    }
+  },
+  "tvList": {
+    "status": true,
+    "data": {
+      "list": [
+        {
+          "attentionRate": 0.5045,
+          "attentionRateDesc": "0.5045%",
+          "channelName": "CCTV-新闻",
+          "marketRate": 8.1466,
+          "marketRateDesc": "8.1466%",
+          "programmeName": "新闻直播间"
+        },
+        {
+          "attentionRate": 0.4032,
+          "attentionRateDesc": "0.4032%",
+          "channelName": "CCTV-8",
+          "marketRate": 6.5109,
+          "marketRateDesc": "6.5109%",
+          "programmeName": "刘家媳妇 34"
+        },
+        {
+          "attentionRate": 0.3005,
+          "attentionRateDesc": "0.3005%",
+          "channelName": "CCTV-4",
+          "marketRate": 4.8534,
+          "marketRateDesc": "4.8534%",
+          "programmeName": "远方的家"
+        },
+        {
+          "attentionRate": 0.247,
+          "attentionRateDesc": "0.247%",
+          "channelName": "浙江卫视",
+          "marketRate": 3.9886,
+          "marketRateDesc": "3.9886%",
+          "programmeName": "王牌对王牌第六季"
+        },
+        {
+          "attentionRate": 0.2445,
+          "attentionRateDesc": "0.2445%",
+          "channelName": "CCTV-1",
+          "marketRate": 3.9491,
+          "marketRateDesc": "3.9491%",
+          "programmeName": "熊出没"
+        },
+        {
+          "attentionRate": 0.2091,
+          "attentionRateDesc": "0.2091%",
+          "channelName": "CCTV-2",
+          "marketRate": 3.3773,
+          "marketRateDesc": "3.3773%",
+          "programmeName": "老广的味道"
+        },
+        {
+          "attentionRate": 0.2047,
+          "attentionRateDesc": "0.2047%",
+          "channelName": "CCTV-5",
+          "marketRate": 3.3064,
+          "marketRateDesc": "3.3064%",
+          "programmeName": "出征"
+        },
+        {
+          "attentionRate": 0.1835,
+          "attentionRateDesc": "0.1835%",
+          "channelName": "江苏卫视",
+          "marketRate": 2.9631,
+          "marketRateDesc": "2.9631%",
+          "programmeName": "非诚勿扰"
+        },
+        {
+          "attentionRate": 0.1704,
+          "attentionRateDesc": "0.1704%",
+          "channelName": "CCTV-6",
+          "marketRate": 2.7521,
+          "marketRateDesc": "2.7521%",
+          "programmeName": "大梦难忘"
+        },
+        {
+          "attentionRate": 0.1624,
+          "attentionRateDesc": "0.1624%",
+          "channelName": "湖南卫视",
+          "marketRate": 2.6227,
+          "marketRateDesc": "2.6227%",
+          "programmeName": "敢教日月换新天"
+        },
+        {
+          "attentionRate": 0.1551,
+          "attentionRateDesc": "0.1551%",
+          "channelName": "湖南金鹰卡通频道",
+          "marketRate": 2.5044,
+          "marketRateDesc": "2.5044%",
+          "programmeName": "喜羊羊与灰太狼之决战次时代"
+        },
+        {
+          "attentionRate": 0.1382,
+          "attentionRateDesc": "0.1382%",
+          "channelName": "北京卫视",
+          "marketRate": 2.2317,
+          "marketRateDesc": "2.2317%",
+          "programmeName": "养生堂"
+        },
+        {
+          "attentionRate": 0.1375,
+          "attentionRateDesc": "0.1375%",
+          "channelName": "CCTV-11",
+          "marketRate": 2.2207,
+          "marketRateDesc": "2.2207%",
+          "programmeName": "特赦1959 22"
+        },
+        {
+          "attentionRate": 0.1283,
+          "attentionRateDesc": "0.1283%",
+          "channelName": "广东卫视",
+          "marketRate": 2.0717,
+          "marketRateDesc": "2.0717%",
+          "programmeName": "战天狼 15"
+        },
+        {
+          "attentionRate": 0.1244,
+          "attentionRateDesc": "0.1244%",
+          "channelName": "CCTV-7",
+          "marketRate": 2.0082,
+          "marketRateDesc": "2.0082%",
+          "programmeName": "军事纪录"
+        },
+        {
+          "attentionRate": 0.1222,
+          "attentionRateDesc": "0.1222%",
+          "channelName": "CCTV-纪录",
+          "marketRate": 1.9733,
+          "marketRateDesc": "1.9733%",
+          "programmeName": "全景自然"
+        },
+        {
+          "attentionRate": 0.1134,
+          "attentionRateDesc": "0.1134%",
+          "channelName": "卡酷少儿",
+          "marketRate": 1.8314,
+          "marketRateDesc": "1.8314%",
+          "programmeName": "熊熊乐园 11"
+        },
+        {
+          "attentionRate": 0.1035,
+          "attentionRateDesc": "0.1035%",
+          "channelName": "CCTV-10",
+          "marketRate": 1.6721,
+          "marketRateDesc": "1.6721%",
+          "programmeName": "地理·中国"
+        },
+        {
+          "attentionRate": 0.102,
+          "attentionRateDesc": "0.102%",
+          "channelName": "CCTV-3",
+          "marketRate": 1.6471,
+          "marketRateDesc": "1.6471%",
+          "programmeName": "中国文艺报道 2021-166"
+        },
+        {
+          "attentionRate": 0.0817,
+          "attentionRateDesc": "0.0817%",
+          "channelName": "广东南方卫视",
+          "marketRate": 1.3196,
+          "marketRateDesc": "1.3196%",
+          "programmeName": "少儿节目"
+        },
+        {
+          "attentionRate": 0.0788,
+          "attentionRateDesc": "0.0788%",
+          "channelName": "东方卫视",
+          "marketRate": 1.2722,
+          "marketRateDesc": "1.2722%",
+          "programmeName": "名医话养生"
+        },
+        {
+          "attentionRate": 0.0772,
+          "attentionRateDesc": "0.0772%",
+          "channelName": "深圳卫视",
+          "marketRate": 1.2468,
+          "marketRateDesc": "1.2468%",
+          "programmeName": "以家人之名 25"
+        },
+        {
+          "attentionRate": 0.0764,
+          "attentionRateDesc": "0.0764%",
+          "channelName": "江西卫视",
+          "marketRate": 1.2329,
+          "marketRateDesc": "1.2329%",
+          "programmeName": "猎手 9"
+        },
+        {
+          "attentionRate": 0.0734,
+          "attentionRateDesc": "0.0734%",
+          "channelName": "CCTV-少儿",
+          "marketRate": 1.1852,
+          "marketRateDesc": "1.1852%",
+          "programmeName": "阿凡提的故事"
+        },
+        {
+          "attentionRate": 0.0717,
+          "attentionRateDesc": "0.0717%",
+          "channelName": "嘉佳卡通频道",
+          "marketRate": 1.1574,
+          "marketRateDesc": "1.1574%",
+          "programmeName": "大玩家"
+        },
+        {
+          "attentionRate": 0.0649,
+          "attentionRateDesc": "0.0649%",
+          "channelName": "西藏卫视",
+          "marketRate": 1.0487,
+          "marketRateDesc": "1.0487%",
+          "programmeName": "薛平贵与王宝钏 48"
+        },
+        {
+          "attentionRate": 0.0645,
+          "attentionRateDesc": "0.0645%",
+          "channelName": "CCTV-12",
+          "marketRate": 1.0412,
+          "marketRateDesc": "1.0412%",
+          "programmeName": "方圆剧阵"
+        },
+        {
+          "attentionRate": 0.0644,
+          "attentionRateDesc": "0.0644%",
+          "channelName": "天津卫视",
+          "marketRate": 1.0394,
+          "marketRateDesc": "1.0394%",
+          "programmeName": "勇敢的心 14"
+        },
+        {
+          "attentionRate": 0.0593,
+          "attentionRateDesc": "0.0593%",
+          "channelName": "CCTV-音乐",
+          "marketRate": 0.9578,
+          "marketRateDesc": "0.9578%",
+          "programmeName": "精彩音乐汇"
+        },
+        {
+          "attentionRate": 0.0441,
+          "attentionRateDesc": "0.0441%",
+          "channelName": "云南卫视",
+          "marketRate": 0.7129,
+          "marketRateDesc": "0.7129%",
+          "programmeName": "黑狐之风影 30"
+        },
+        {
+          "attentionRate": 0.0432,
+          "attentionRateDesc": "0.0432%",
+          "channelName": "黑龙江卫视",
+          "marketRate": 0.6979,
+          "marketRateDesc": "0.6979%",
+          "programmeName": "五号特工组之偷天换月"
+        },
+        {
+          "attentionRate": 0.0413,
+          "attentionRateDesc": "0.0413%",
+          "channelName": "四川卫视",
+          "marketRate": 0.6666,
+          "marketRateDesc": "0.6666%",
+          "programmeName": "武松 31"
+        },
+        {
+          "attentionRate": 0.0402,
+          "attentionRateDesc": "0.0402%",
+          "channelName": "安徽卫视",
+          "marketRate": 0.6484,
+          "marketRateDesc": "0.6484%",
+          "programmeName": "重案六组2 2"
+        },
+        {
+          "attentionRate": 0.0397,
+          "attentionRateDesc": "0.0397%",
+          "channelName": "CCTV-17",
+          "marketRate": 0.6416,
+          "marketRateDesc": "0.6416%",
+          "programmeName": "田间示范秀"
+        },
+        {
+          "attentionRate": 0.0382,
+          "attentionRateDesc": "0.0382%",
+          "channelName": "CCTV-5+体育赛事频道",
+          "marketRate": 0.6163,
+          "marketRateDesc": "0.6163%",
+          "programmeName": "2021年全国羽毛球冠军赛"
+        },
+        {
+          "attentionRate": 0.0335,
+          "attentionRateDesc": "0.0335%",
+          "channelName": "吉林卫视",
+          "marketRate": 0.5411,
+          "marketRateDesc": "0.5411%",
+          "programmeName": "欢乐送"
+        },
+        {
+          "attentionRate": 0.0326,
+          "attentionRateDesc": "0.0326%",
+          "channelName": "辽宁卫视",
+          "marketRate": 0.5268,
+          "marketRateDesc": "0.5268%",
+          "programmeName": "食全食美"
+        },
+        {
+          "attentionRate": 0.0326,
+          "attentionRateDesc": "0.0326%",
+          "channelName": "山西卫视",
+          "marketRate": 0.5268,
+          "marketRateDesc": "0.5268%",
+          "programmeName": "等着我"
+        },
+        {
+          "attentionRate": 0.0319,
+          "attentionRateDesc": "0.0319%",
+          "channelName": "山东卫视",
+          "marketRate": 0.5158,
+          "marketRateDesc": "0.5158%",
+          "programmeName": "巡回检察组"
+        },
+        {
+          "attentionRate": 0.0223,
+          "attentionRateDesc": "0.0223%",
+          "channelName": "广西卫视",
+          "marketRate": 0.36,
+          "marketRateDesc": "0.36%",
+          "programmeName": "蝴蝶行动 7"
+        },
+        {
+          "attentionRate": 0.0214,
+          "attentionRateDesc": "0.0214%",
+          "channelName": "湖北卫视",
+          "marketRate": 0.345,
+          "marketRateDesc": "0.345%",
+          "programmeName": "饮食养生汇"
+        },
+        {
+          "attentionRate": 0.0204,
+          "attentionRateDesc": "0.0204%",
+          "channelName": "重庆卫视",
+          "marketRate": 0.329,
+          "marketRateDesc": "0.329%",
+          "programmeName": "第1眼新闻"
+        },
+        {
+          "attentionRate": 0.0196,
+          "attentionRateDesc": "0.0196%",
+          "channelName": "江苏优漫卡通频道",
+          "marketRate": 0.3158,
+          "marketRateDesc": "0.3158%",
+          "programmeName": "来玩吧"
+        },
+        {
+          "attentionRate": 0.0195,
+          "attentionRateDesc": "0.0195%",
+          "channelName": "内蒙古卫视",
+          "marketRate": 0.3144,
+          "marketRateDesc": "0.3144%",
+          "programmeName": "飞哥大英雄 31"
+        },
+        {
+          "attentionRate": 0.0188,
+          "attentionRateDesc": "0.0188%",
+          "channelName": "贵州卫视",
+          "marketRate": 0.3033,
+          "marketRateDesc": "0.3033%",
+          "programmeName": "等着我"
+        },
+        {
+          "attentionRate": 0.0181,
+          "attentionRateDesc": "0.0181%",
+          "channelName": "上海电视台哈哈炫动卫视",
+          "marketRate": 0.2926,
+          "marketRateDesc": "0.2926%",
+          "programmeName": "猪猪侠之南海日记 2"
+        },
+        {
+          "attentionRate": 0.0129,
+          "attentionRateDesc": "0.0129%",
+          "channelName": "河北卫视",
+          "marketRate": 0.2078,
+          "marketRateDesc": "0.2078%",
+          "programmeName": "巡回检察组 62"
+        },
+        {
+          "attentionRate": 0.0125,
+          "attentionRateDesc": "0.0125%",
+          "channelName": "河南卫视",
+          "marketRate": 0.2017,
+          "marketRateDesc": "0.2017%",
+          "programmeName": "南少林三十六房"
+        },
+        {
+          "attentionRate": 0.0109,
+          "attentionRateDesc": "0.0109%",
+          "channelName": "青海卫视",
+          "marketRate": 0.1761,
+          "marketRateDesc": "0.1761%",
+          "programmeName": "康熙微服私访记3 7"
+        },
+        {
+          "attentionRate": 0.0104,
+          "attentionRateDesc": "0.0104%",
+          "channelName": "海南卫视",
+          "marketRate": 0.1679,
+          "marketRateDesc": "0.1679%",
+          "programmeName": "穆桂英挂帅 61"
+        },
+        {
+          "attentionRate": 0.0104,
+          "attentionRateDesc": "0.0104%",
+          "channelName": "陕西卫视",
+          "marketRate": 0.1672,
+          "marketRateDesc": "0.1672%",
+          "programmeName": "武松 43"
+        },
+        {
+          "attentionRate": 0.0101,
+          "attentionRateDesc": "0.0101%",
+          "channelName": "新疆卫视",
+          "marketRate": 0.1633,
+          "marketRateDesc": "0.1633%",
+          "programmeName": "开心时刻:小品相声"
+        },
+        {
+          "attentionRate": 0.0088,
+          "attentionRateDesc": "0.0088%",
+          "channelName": "湖南金鹰纪实频道",
+          "marketRate": 0.1419,
+          "marketRateDesc": "0.1419%",
+          "programmeName": "寰宇地理"
+        },
+        {
+          "attentionRate": 0.008,
+          "attentionRateDesc": "0.008%",
+          "channelName": "东南卫视",
+          "marketRate": 0.1294,
+          "marketRateDesc": "0.1294%",
+          "programmeName": "求爱总动员"
+        },
+        {
+          "attentionRate": 0.0076,
+          "attentionRateDesc": "0.0076%",
+          "channelName": "中国教育电视台一套",
+          "marketRate": 0.1226,
+          "marketRateDesc": "0.1226%",
+          "programmeName": "明星带你探商机"
+        },
+        {
+          "attentionRate": 0.0064,
+          "attentionRateDesc": "0.0064%",
+          "channelName": "宁夏卫视",
+          "marketRate": 0.103,
+          "marketRateDesc": "0.103%",
+          "programmeName": "戚继光"
+        },
+        {
+          "attentionRate": 0.006,
+          "attentionRateDesc": "0.006%",
+          "channelName": "甘肃卫视",
+          "marketRate": 0.0962,
+          "marketRateDesc": "0.0962%",
+          "programmeName": "洛宝贝"
+        },
+        {
+          "attentionRate": 0.0049,
+          "attentionRateDesc": "0.0049%",
+          "channelName": "厦门卫视",
+          "marketRate": 0.0795,
+          "marketRateDesc": "0.0795%",
+          "programmeName": "《小海豚》日常版《上课啦》(首)"
+        },
+        {
+          "attentionRate": 0.003,
+          "attentionRateDesc": "0.003%",
+          "channelName": "中国教育电视台四套",
+          "marketRate": 0.0485,
+          "marketRateDesc": "0.0485%",
+          "programmeName": "未知节目"
+        },
+        {
+          "attentionRate": 0.0012,
+          "attentionRateDesc": "0.0012%",
+          "channelName": "家庭理财",
+          "marketRate": 0.02,
+          "marketRateDesc": "0.02%",
+          "programmeName": "决策在先"
+        }
+      ],
+      "updateInfo": {
+        "updateGapSecond": 3,
+        "updateTimestamp": 1626774741619
+      }
+    }
+  },
+  "calendar": {
+    "today": "2021-07-20",
+    "selectMinDate": "2020-07-20",
+    "selectMaxDate": "2021-09-18",
+    "defaultSelect": "2021-07-20",
+    "serverTimestamp": "2021-07-20T09:52:21.613Z",
+    "selectDate": "2021-07-20"
+  },
+  "fontStyle": "@font-face{font-family: \"mtsi-font\";src:url(\"//s3plus.meituan.net/v1/mss_73a511b8f91f43d0bdae92584ea6330b/font/0149d98a.eot\");src:url(\"//s3plus.meituan.net/v1/mss_73a511b8f91f43d0bdae92584ea6330b/font/0149d98a.eot?#iefix\") format(\"embedded-opentype\"),url(\"//s3plus.meituan.net/v1/mss_73a511b8f91f43d0bdae92584ea6330b/font/0149d98a.woff\");}",
+  "status": true
+}
